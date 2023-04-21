@@ -4,7 +4,7 @@ body{
 
 /* Container */
 .container {
-  width: 90%; 
+  width: 50%; 
   margin: auto;
   padding: 20px;
   background-color: rgb(255, 255, 255);
